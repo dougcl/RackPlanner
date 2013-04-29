@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rack>
+	<properties>
+		<scale>0.5</scale>
+		<rows>2</rows>
+		<cols>1</cols>
+		<imagesPath>./images</imagesPath>
+		<modulesPath>./modcanA</modulesPath>
+		<rackImageFilename>modcana_rack_126_551.jpg</rackImageFilename>
+		<rackHP>7</rackHP>
+	</properties>
+	<modules>
+		<module>
+			<zipFilename>4075.zip</zipFilename>
+			<row>1</row>
+			<col>1</col>
+		</module>
+		<module>
+			<zipFilename>vcadsr.zip</zipFilename>
+			<row>1</row>
+			<col>5</col>
+		</module>
+		<module>
+			<zipFilename>clock.zip</zipFilename>
+			<row>1</row>
+			<col>2</col>
+		</module>
+		<module>
+			<zipFilename>4075.zip</zipFilename>
+			<row>1</row>
+			<col>3</col>
+		</module>
+		<module>
+			<zipFilename>clock.zip</zipFilename>
+			<row>1</row>
+			<col>4</col>
+		</module>
+	</modules>
+</rack>

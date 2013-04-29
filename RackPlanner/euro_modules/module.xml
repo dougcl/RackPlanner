@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<module>
+	<properties>
+		<manuf>Modcan</manuf>
+		<model>32-A</model>
+		<HP>1</HP>
+		<mA>00</mA>
+		<priceUSD>00</priceUSD>
+		<priceEUR>00</priceEUR>
+		<moduleImageFilename>jstick.jpg</moduleImageFilename>
+	</properties>
+	<forum_url></forum_url>	
+</module>
